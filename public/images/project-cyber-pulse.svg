@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050608"/>
+      <stop offset="50%" stop-color="#0a101d"/>
+      <stop offset="100%" stop-color="#021422"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#0066ff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg1)"/>
+  
+  <!-- Perspective Grid -->
+  <g opacity="0.25" stroke="#00f0ff" stroke-width="1.5">
+    <line x1="0" y1="520" x2="1280" y2="520"/>
+    <line x1="0" y1="560" x2="1280" y2="560"/>
+    <line x1="0" y1="610" x2="1280" y2="610"/>
+    <line x1="0" y1="670" x2="1280" y2="670"/>
+    <line x1="640" y1="460" x2="0" y2="720"/>
+    <line x1="640" y1="460" x2="200" y2="720"/>
+    <line x1="640" y1="460" x2="400" y2="720"/>
+    <line x1="640" y1="460" x2="640" y2="720"/>
+    <line x1="640" y1="460" x2="880" y2="720"/>
+    <line x1="640" y1="460" x2="1080" y2="720"/>
+    <line x1="640" y1="460" x2="1280" y2="720"/>
+  </g>
+  
+  <!-- Ambient Glow -->
+  <circle cx="640" cy="340" r="280" fill="#00f0ff" opacity="0.08" filter="url(#glow)"/>
+  
+  <!-- Glitch bars -->
+  <rect x="240" y="270" width="800" height="3" fill="#00f0ff" opacity="0.8"/>
+  <rect x="290" y="380" width="700" height="2" fill="#00ffff" opacity="0.4"/>
+  <rect x="180" y="200" width="4" height="60" fill="#00f0ff" opacity="0.7"/>
+  <rect x="1090" y="440" width="4" height="70" fill="#0066ff" opacity="0.7"/>
+
+  <!-- Center Title -->
+  <text x="640" y="330" font-family="'Syne', 'Inter', sans-serif" font-size="64" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="8" filter="url(#glow)">CYBER PULSE</text>
+  <text x="640" y="375" font-family="'Space Grotesk', 'Inter', monospace" font-size="20" font-weight="600" fill="#00f0ff" text-anchor="middle" letter-spacing="6">MOTION TITLE SEQUENCE // 2026</text>
+  
+  <!-- Badges & UI Elements -->
+  <rect x="80" y="60" width="120" height="28" rx="4" fill="rgba(0, 240, 255, 0.1)" stroke="#00f0ff" stroke-width="1"/>
+  <text x="140" y="79" font-family="monospace" font-size="12" fill="#00f0ff" text-anchor="middle">[4K UHD]</text>
+  
+  <text x="1200" y="79" font-family="monospace" font-size="13" fill="#94a3b8" text-anchor="end">00:45:00 // 60 FPS</text>
+  <text x="80" y="660" font-family="monospace" font-size="13" fill="#64748b">DIR: CRISTEL LACEA</text>
+  <text x="1200" y="660" font-family="monospace" font-size="13" fill="#00f0ff" text-anchor="end">AE + C4D</text>
+</svg>

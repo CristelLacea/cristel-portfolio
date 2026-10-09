@@ -1,0 +1,22 @@
+{
+  "name": "cristel-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Cristel Lacea - Freelance Motion Graphics Designer, Graphic Artist & Video Editor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "motion-graphics",
+    "video-editor",
+    "graphic-art",
+    "cinema"
+  ],
+  "author": "Cristel Lacea",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

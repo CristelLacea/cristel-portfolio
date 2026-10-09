@@ -1,0 +1,391 @@
+[
+  {
+    "id": "film-curse-of-barbara",
+    "title": "The Curse of Barbara",
+    "category": "films",
+    "category_label": "Short Film",
+    "sub_type": "Horror / Suspense Short Film",
+    "client": "Short Film Production",
+    "year": "2024",
+    "duration": "SHORT FILM",
+    "resolution": "16:9 Cinematic HD",
+    "aspect_ratio": "16-9",
+    "role": "Director, Video Editor & Colorist",
+    "tools": ["Adobe Premiere Pro", "CapCut Pro"],
+    "caption": "Directed & Edited in Premiere Pro & CapCut Pro • Suspense timing & atmospheric grading",
+    "description": "A suspenseful short film exploring dark mystery and tension through atmospheric lighting, pacing, sound design, and cohesive cinematic color grading.",
+    "thumbnail": "images/films/short-film-1.png",
+    "stills": [
+      {
+        "src": "images/films/short-film-2.png",
+        "title": "The Curse of Barbara — Scene 01",
+        "label": "Scene 01 • Atmospheric Setup"
+      },
+      {
+        "src": "images/films/short-film-3.png",
+        "title": "The Curse of Barbara — Scene 02",
+        "label": "Scene 02 • Climactic Mystery"
+      },
+      {
+        "src": "images/films/short-film-4.png",
+        "title": "The Curse of Barbara — Scene 03",
+        "label": "Scene 03 • Dramatic Climax"
+      }
+    ],
+    "badges": ["Short Film", "Horror & Suspense", "Premiere Pro", "CapCut Pro"]
+  },
+  {
+    "id": "film-ballpen-at-papel",
+    "title": "Ballpen at Papel",
+    "category": "films",
+    "category_label": "Documentary",
+    "sub_type": "Documentary Film",
+    "client": "Documentary Film Production",
+    "year": "2023",
+    "duration": "DOCUMENTARY",
+    "resolution": "16:9 Naturalistic HD",
+    "aspect_ratio": "16-9",
+    "role": "Documentary Filmmaker, Editor & Sound Designer",
+    "tools": ["Adobe Premiere Pro", "CapCut Pro"],
+    "caption": "Documentary storytelling in Premiere Pro & CapCut Pro • Sound design & narrative pacing",
+    "description": "An evocative documentary film chronicling human resilience, education, and the reality of underprivileged students with heartfelt interview pacing and naturalistic tones.",
+    "thumbnail": "images/films/documentary.png",
+    "stills": [
+      {
+        "src": "images/films/documentary-1.png",
+        "title": "Ballpen at Papel — Scene 01",
+        "label": "Scene 01 • Story Exposition"
+      },
+      {
+        "src": "images/films/documentary-2.png",
+        "title": "Ballpen at Papel — Scene 02",
+        "label": "Scene 02 • Real-life Context"
+      },
+      {
+        "src": "images/films/documentary-3.png",
+        "title": "Ballpen at Papel — Scene 03",
+        "label": "Scene 03 • Emotional Resonance"
+      }
+    ],
+    "badges": ["Documentary", "Cultural Storytelling", "Premiere Pro", "CapCut Pro"]
+  },
+  {
+    "id": "film-liwanag-ng-pasko",
+    "title": "Liwanag ng Pasko",
+    "category": "films",
+    "category_label": "Animation",
+    "sub_type": "Holiday Animated Short Film",
+    "client": "Animation Creative Production",
+    "year": "2023",
+    "duration": "ANIMATED FILM",
+    "resolution": "16:9 Full HD",
+    "aspect_ratio": "16-9",
+    "role": "Animator, Motion Artist & Compositor",
+    "tools": ["Adobe Premiere Pro", "Adobe After Effects", "CapCut Pro"],
+    "caption": "Asset animation in After Effects & Premiere Pro • Festive motion & compositing",
+    "description": "A warm and luminous animated holiday short celebrating the spirit and warmth of Christmas, crafted with expressive visual storytelling and frame pacing.",
+    "thumbnail": "images/films/animation.png",
+    "stills": [
+      {
+        "src": "images/films/animation-1.png",
+        "title": "Liwanag ng Pasko — Scene 01",
+        "label": "Scene 01 • Festive Introduction"
+      },
+      {
+        "src": "images/films/animation-2.png",
+        "title": "Liwanag ng Pasko — Scene 02",
+        "label": "Scene 02 • Emotional Character Arc"
+      },
+      {
+        "src": "images/films/animation-3.png",
+        "title": "Liwanag ng Pasko — Scene 03",
+        "label": "Scene 03 • Warm Celebration"
+      }
+    ],
+    "badges": ["Animation", "Holiday Short", "After Effects", "Premiere Pro"]
+  },
+  {
+    "id": "film-unfinished-verse",
+    "title": "Unfinished Verse",
+    "category": "films",
+    "category_label": "Narrative Film",
+    "sub_type": "Drama / Narrative Film",
+    "client": "Narrative Film Production",
+    "year": "2024",
+    "duration": "NARRATIVE FILM",
+    "resolution": "16:9 Cinema 4K",
+    "aspect_ratio": "16-9",
+    "role": "Lead Video Editor & Colorist",
+    "tools": ["Adobe Premiere Pro", "CapCut Pro"],
+    "caption": "Narrative cut assembly in Premiere Pro & CapCut Pro • Dramatic scene pacing",
+    "description": "A dramatic cinematic narrative capturing poetry, memory, and unresolved emotions through evocative cinematography cuts and thoughtful rhythm.",
+    "thumbnail": "images/films/film.png",
+    "stills": [
+      {
+        "src": "images/films/film-1.png",
+        "title": "Unfinished Verse — Scene 01",
+        "label": "Scene 01 • Opening Verses"
+      },
+      {
+        "src": "images/films/film-2.png",
+        "title": "Unfinished Verse — Scene 02",
+        "label": "Scene 02 • Introspective Sequence"
+      },
+      {
+        "src": "images/films/film-3.png",
+        "title": "Unfinished Verse — Scene 03",
+        "label": "Scene 03 • Visual Climax"
+      }
+    ],
+    "badges": ["Narrative Film", "Drama Edit", "Premiere Pro", "CapCut Pro"]
+  },
+  {
+    "id": "film-panumpa",
+    "title": "Panumpa",
+    "category": "films",
+    "category_label": "Short Film",
+    "sub_type": "Cultural / Narrative Short Film",
+    "client": "Short Film Production",
+    "year": "2024",
+    "duration": "SHORT FILM",
+    "resolution": "16:9 Cinematic HD",
+    "aspect_ratio": "16-9",
+    "role": "Director, Video Editor & Colorist",
+    "tools": ["Adobe Premiere Pro", "CapCut Pro"],
+    "caption": "Directed & post-produced in Premiere Pro & CapCut Pro • Cinematic pacing & thematic cut",
+    "description": "A powerful cinematic production built around solemn promises, devotion, and dramatic stakes, featuring rich character focus and striking visual compositions.",
+    "thumbnail": "images/films/panumpa.png",
+    "stills": [
+      {
+        "src": "images/films/panumpa-1.png",
+        "title": "Panumpa — Scene 01",
+        "label": "Scene 01 • Solemn Vow"
+      },
+      {
+        "src": "images/films/panumpa-2.png",
+        "title": "Panumpa — Scene 02",
+        "label": "Scene 02 • Narrative Conflict"
+      },
+      {
+        "src": "images/films/panumpa-3.png",
+        "title": "Panumpa — Scene 03",
+        "label": "Scene 03 • The Oath Unfolds"
+      },
+      {
+        "src": "images/films/panumpa-4.png",
+        "title": "Panumpa — Scene 04",
+        "label": "Scene 04 • Resolute Resolution"
+      }
+    ],
+    "badges": ["Short Film", "Directing", "Editing & Pacing", "Colorist"]
+  },
+  {
+    "id": "ad-official-6-frames-opening",
+    "title": "OFFICIAL 6 FRAMES OPENING // Christmas Animation Ident",
+    "category": "advertisements",
+    "category_label": "Advertisements",
+    "sub_type": "Animation Opening Ident",
+    "client": "Christmas Animation Project",
+    "year": "2024",
+    "duration": "00:16",
+    "resolution": "1920x1080 Full HD (16:9)",
+    "aspect_ratio": "16-9",
+    "role": "Animator, Motion Graphics & Sound Editor",
+    "tools": ["Adobe After Effects", "Adobe Premiere Pro", "CapCut Pro"],
+    "caption": "Animated in After Effects & Premiere Pro • Festive motion graphics & sound design",
+    "description": "Dynamic animated opening sequence featuring high-energy kinetic frames, festive typography, and vibrant holiday colors designed as an official ident sequence.",
+    "thumbnail": "images/ads/official-6-frames-opening.jpg",
+    "video_url": "videos/official-6-frames-opening.mp4",
+    "badges": ["Animation Ident", "After Effects", "Premiere Pro", "CapCut Pro"]
+  },
+  {
+    "id": "ad-pasundayag-2025-logo-reveal",
+    "title": "PASUNDAYAG 2025 // Official Logo Reveal & Teaser Ad",
+    "category": "advertisements",
+    "category_label": "Advertisements",
+    "sub_type": "Event Promo & Logo Reveal",
+    "client": "SCUAA / Pasundayag 2025",
+    "year": "2025",
+    "duration": "00:49",
+    "resolution": "1920x1080 Full HD (16:9)",
+    "aspect_ratio": "16-9",
+    "role": "Motion Designer, Video Editor & Sound Designer",
+    "tools": ["Adobe After Effects", "Adobe Premiere Pro", "CapCut Pro"],
+    "caption": "Logo animation & sound design in After Effects & Premiere Pro • Cinematic reveal pacing",
+    "description": "Official promotional logo reveal and cinematic event teaser for Pasundayag 2025 (SCUAA), utilizing 3D logo extrusion effects, atmospheric particles, and powerful sound design.",
+    "thumbnail": "images/ads/pasundayag-2025-logo-reveal.jpg",
+    "video_url": "videos/pasundayag-2025-logo-reveal.mp4",
+    "badges": ["Logo Reveal", "SCUAA 2025", "After Effects", "Sound Design"]
+  },
+  {
+    "id": "ad-hayag-promotion-vid",
+    "title": "HAYAG PROMOTION // 4K Promotional Campaign Video",
+    "category": "advertisements",
+    "category_label": "Advertisements",
+    "sub_type": "Promotional Video Campaign",
+    "client": "SCUAA / Hayag Media Promotion",
+    "year": "2025",
+    "duration": "00:44",
+    "resolution": "3840x2160 4K UHD (16:9)",
+    "aspect_ratio": "16-9",
+    "role": "Video Editor, Motion Artist & Colorist",
+    "tools": ["Adobe Premiere Pro", "Adobe After Effects", "CapCut Pro"],
+    "caption": "4K promotional cut in Premiere Pro • Speed ramping & kinetic transitions",
+    "description": "Vibrant high-resolution 4K promotional commercial crafted for the Hayag media initiative, combining fast-paced match cuts, stylized color grading, and impactful typography.",
+    "thumbnail": "images/ads/hayag-promotion-vid.jpg",
+    "video_url": "videos/hayag-promotion-vid.mp4",
+    "badges": ["4K Ultra HD", "Commercial Promo", "Premiere Pro", "Color Grade"]
+  },
+  {
+    "id": "ad-stb-kina-finalan-nga-intro",
+    "title": "STORYA TA BISUANS // Official Portrait Broadcast Intro",
+    "category": "advertisements",
+    "category_label": "Advertisements",
+    "sub_type": "Social Broadcast Intro (Portrait)",
+    "client": "BISU Broadcast Media / Storya Ta BISUans",
+    "year": "2024",
+    "duration": "00:33",
+    "resolution": "1080x1920 Full HD (9:16 Portrait)",
+    "aspect_ratio": "9-16",
+    "role": "Motion Graphics Designer, Video Editor & Sound Designer",
+    "tools": ["Adobe Premiere Pro", "Adobe After Effects", "CapCut Pro"],
+    "caption": "Portrait 9:16 mobile broadcast intro in Premiere Pro & CapCut Pro • Social-first motion art",
+    "description": "Vertical 9:16 broadcast intro tailored for social mobile platforms (Reels / TikTok), featuring animated student broadcast idents, punchy kinetic lower thirds, and upbeat audio sync.",
+    "thumbnail": "images/ads/stb-kina-finalan-nga-intro.jpg",
+    "video_url": "videos/stb-kina-finalan-nga-intro.mp4",
+    "badges": ["Portrait 9:16", "Social Broadcast", "Reels / TikTok", "CapCut Pro"]
+  },
+  {
+    "id": "ad-tca-new-broadcast-intro",
+    "title": "THE CAMPUS ACCESS // 4K 3D Broadcast Station Intro",
+    "category": "advertisements",
+    "category_label": "Advertisements",
+    "sub_type": "Broadcast Ident & 3D Motion Opener",
+    "client": "The Campus Access / Media Station",
+    "year": "2024",
+    "duration": "00:29",
+    "resolution": "3840x2160 4K UHD (16:9)",
+    "aspect_ratio": "16-9",
+    "role": "Lead Motion Designer & Video Editor",
+    "tools": ["Adobe After Effects", "Adobe Premiere Pro", "CapCut Pro"],
+    "caption": "3D broadcast station ident in 4K • Dynamic newsroom graphics & official emblem reveal",
+    "description": "Official 4K broadcast opener and 3D station ident for The Campus Access (BISU-Balilihan), featuring dynamic newsroom broadcast visuals, kinetic typography, and a 3D animated emblem reveal.",
+    "thumbnail": "images/ads/tca-new-broadcast-intro.jpg",
+    "video_url": "videos/tca-new-broadcast-intro.mp4",
+    "badges": ["4K Ultra HD", "3D Motion", "Broadcast Intro", "After Effects"]
+  },
+  {
+    "id": "poster-illuminaire",
+    "title": "Illuminare // Official Publication Cover",
+    "category": "posters",
+    "category_label": "Posters",
+    "sub_type": "Official Publication Key Art",
+    "client": "The Campus Access • BISU-Balilihan",
+    "year": "2024",
+    "duration": "POSTER / COVER",
+    "resolution": "High-Definition Publication Art",
+    "aspect_ratio": "3-4",
+    "role": "Cover Artist & Graphic Designer",
+    "tools": ["Adobe Photoshop"],
+    "caption": "",
+    "description": "",
+    "thumbnail": "images/posters/illuminaire.png",
+    "full_image": "images/posters/illuminaire.png",
+    "badges": ["Publication Cover", "Key Art", "Photoshop"]
+  },
+  {
+    "id": "poster-curse-of-barbara",
+    "title": "The Curse of Barbara // Official Movie Poster",
+    "category": "posters",
+    "category_label": "Posters",
+    "sub_type": "Cinematic Movie Key Visual",
+    "client": "Six Frames Production",
+    "year": "2024",
+    "duration": "MOVIE KEY ART",
+    "resolution": "High-Definition Movie Poster",
+    "aspect_ratio": "2-3",
+    "role": "Movie Poster Designer & Compositor",
+    "tools": ["Adobe Photoshop"],
+    "caption": "",
+    "description": "",
+    "thumbnail": "images/posters/project2.jpg",
+    "full_image": "images/posters/project2.jpg",
+    "badges": ["Movie Poster", "Key Art", "Film Visual"]
+  },
+  {
+    "id": "poster-layout-portfolio",
+    "title": "Layout Portfolio // Graphic Artist Showcase",
+    "category": "posters",
+    "category_label": "Posters",
+    "sub_type": "Creative Layout Showcase",
+    "client": "Cristel Mae Lacea Creative Works",
+    "year": "2025",
+    "duration": "SHOWCASE KEY ART",
+    "resolution": "High-Definition Portfolio Layout",
+    "aspect_ratio": "1-2",
+    "role": "Graphic Artist & Layout Designer",
+    "tools": ["Adobe Photoshop"],
+    "caption": "",
+    "description": "",
+    "thumbnail": "images/posters/lacea-cristelmae-layoutportfolio.jpg",
+    "full_image": "images/posters/lacea-cristelmae-layoutportfolio.jpg",
+    "badges": ["Layout Design", "Portfolio Showcase", "Graphic Art"]
+  },
+  {
+    "id": "poster-heat-index-advisory",
+    "title": "Heat Index Advisory // Public Announcement Poster",
+    "category": "posters",
+    "category_label": "Posters",
+    "sub_type": "Campus Advisory Infographic Poster",
+    "client": "The Campus Access Public Bulletin",
+    "year": "2024",
+    "duration": "CAMPUS POSTER",
+    "resolution": "High-Definition Advisory Art",
+    "aspect_ratio": "3-4",
+    "role": "Graphic Artist & Layout Designer",
+    "tools": ["Adobe Photoshop"],
+    "caption": "",
+    "description": "",
+    "thumbnail": "images/posters/432783029_936220785177124_5285781157206786903_n.jpg",
+    "full_image": "images/posters/432783029_936220785177124_5285781157206786903_n.jpg",
+    "badges": ["Campus Advisory", "Infographic Poster", "Graphic Art"]
+  },
+  {
+    "id": "poster-the-campus-access-vol-x",
+    "title": "The Campus Access // Vol. X Editorial Cover Poster",
+    "category": "posters",
+    "category_label": "Posters",
+    "sub_type": "Editorial Magazine Cover",
+    "client": "The Campus Access • BISU-Balilihan",
+    "year": "2024",
+    "duration": "EDITORIAL COVER",
+    "resolution": "300 DPI High-Resolution Poster",
+    "aspect_ratio": "3-4",
+    "role": "Cover Designer & Digital Artist",
+    "tools": ["Adobe Photoshop"],
+    "caption": "",
+    "description": "",
+    "thumbnail": "images/posters/c72f6a91-6a79-4a24-9885-881237bfb555.jpg",
+    "full_image": "images/posters/c72f6a91-6a79-4a24-9885-881237bfb555.jpg",
+    "badges": ["Editorial Cover", "Magazine Art", "Photoshop"]
+  },
+  {
+    "id": "poster-hayag-press-conference",
+    "title": "HAYAG Press Conference // Congratulations Winners Key Art",
+    "category": "posters",
+    "category_label": "Posters",
+    "sub_type": "Event Announcement Key Visual",
+    "client": "HAYAG Campus-Based Press Conference 2024",
+    "year": "2024",
+    "duration": "EVENT KEY VISUAL",
+    "resolution": "High-Definition Digital Key Visual",
+    "aspect_ratio": "1-1",
+    "role": "Graphic Artist & Event Visual Designer",
+    "tools": ["Adobe Photoshop"],
+    "caption": "",
+    "description": "",
+    "thumbnail": "images/posters/hayag.jpg",
+    "full_image": "images/posters/hayag.jpg",
+    "badges": ["Event Poster", "Press Conference", "Key Visual"]
+  }
+]

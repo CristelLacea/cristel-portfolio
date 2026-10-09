@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pRecBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030810"/>
+      <stop offset="60%" stop-color="#08182a"/>
+      <stop offset="100%" stop-color="#02070e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#pRecBg)"/>
+  <rect x="40" y="40" width="820" height="1120" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.4"/>
+
+  <text x="80" y="110" font-family="'Space Grotesk', monospace" font-size="14" fill="#00f0ff" letter-spacing="4">[MEDIA RECRUITMENT 2026]</text>
+  
+  <!-- Diagonal ribbon -->
+  <polygon points="120,240 780,240 740,320 80,320" fill="#00f0ff" opacity="0.9"/>
+  <text x="450" y="295" font-family="'Syne', sans-serif" font-size="34" font-weight="900" fill="#000000" text-anchor="middle" letter-spacing="6">JOIN THE PUBLICATION TEAM</text>
+
+  <text x="450" y="520" font-family="'Syne', sans-serif" font-size="64" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="8">VOICES</text>
+  <text x="450" y="600" font-family="'Syne', sans-serif" font-size="64" font-weight="900" fill="#00f0ff" text-anchor="middle" letter-spacing="8">UNFILTERED</text>
+  
+  <text x="450" y="670" font-family="'Space Grotesk', monospace" font-size="20" fill="#38bdf8" text-anchor="middle" letter-spacing="4">WRITERS • DESIGNERS • VIDEO EDITORS</text>
+  
+  <g fill="#64748b" font-family="monospace" font-size="12" text-anchor="middle">
+    <text x="450" y="1040" letter-spacing="3">POSTER &amp; CAMPAIGN ASSETS BY CRISTEL MAE LACEA</text>
+    <text x="450" y="1070" letter-spacing="2">SWISS GRID ARCHITECTURE • HIGH READABILITY</text>
+  </g>
+</svg>

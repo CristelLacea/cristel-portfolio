@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  <defs>
+    <linearGradient id="neonBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="100%" stop-color="#0a192f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#neonBg)"/>
+  
+  <g fill="#00f0ff" opacity="0.8">
+    <rect x="220" y="320" width="8" height="80" rx="4"/>
+    <rect x="250" y="280" width="8" height="160" rx="4"/>
+    <rect x="280" y="240" width="8" height="240" rx="4"/>
+    <rect x="310" y="200" width="8" height="320" rx="4"/>
+    <rect x="340" y="270" width="8" height="180" rx="4"/>
+    <rect x="430" y="180" width="8" height="360" rx="4"/>
+  </g>
+  <g fill="#38bdf8" opacity="0.6">
+    <rect x="800" y="250" width="8" height="220" rx="4"/>
+    <rect x="830" y="210" width="8" height="300" rx="4"/>
+    <rect x="920" y="190" width="8" height="340" rx="4"/>
+    <rect x="950" y="240" width="8" height="240" rx="4"/>
+  </g>
+
+  <text x="640" y="340" font-family="'Syne', sans-serif" font-size="58" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="10">NEON HORIZONS</text>
+  <text x="640" y="390" font-family="'Space Grotesk', monospace" font-size="20" fill="#00f0ff" text-anchor="middle" letter-spacing="6">KINETIC LYRIC VIDEO &amp; VISUALIZER</text>
+  <text x="640" y="430" font-family="monospace" font-size="14" fill="#94a3b8" text-anchor="middle">AFTER EFFECTS // KINETIC TYPOGRAPHY</text>
+</svg>

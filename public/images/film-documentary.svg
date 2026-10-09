@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgF3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#03080e"/>
+      <stop offset="50%" stop-color="#071b28"/>
+      <stop offset="100%" stop-color="#02070e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bgF3)"/>
+
+  <text x="640" y="330" font-family="'Syne', sans-serif" font-size="54" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="6">HORIZONS OF CEBU</text>
+  <text x="640" y="380" font-family="'Space Grotesk', monospace" font-size="20" fill="#00f0ff" text-anchor="middle" letter-spacing="4">REGIONAL CULTURAL MINI-DOCUMENTARY</text>
+  <text x="640" y="420" font-family="monospace" font-size="14" fill="#94a3b8" text-anchor="middle">EDITED IN PREMIERE PRO • COLOR GRADED IN DAVINCI RESOLVE</text>
+  
+  <text x="80" y="80" font-family="monospace" font-size="13" fill="#00f0ff">[4K DOCUMENTARY CUT]</text>
+  <text x="1200" y="80" font-family="monospace" font-size="13" fill="#64748b" text-anchor="end">04:10 // 24 FPS</text>
+</svg>

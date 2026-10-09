@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="retroBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#08031a"/>
+      <stop offset="50%" stop-color="#140733"/>
+      <stop offset="100%" stop-color="#04020a"/>
+    </linearGradient>
+    <linearGradient id="sunRetro" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f"/>
+      <stop offset="70%" stop-color="#00f0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#retroBg)"/>
+  <rect x="40" y="40" width="820" height="1120" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.5"/>
+  
+  <circle cx="450" cy="480" r="190" fill="url(#sunRetro)"/>
+  <rect x="250" y="440" width="400" height="5" fill="#140733"/>
+  <rect x="250" y="460" width="400" height="9" fill="#140733"/>
+  <rect x="250" y="485" width="400" height="14" fill="#140733"/>
+  <rect x="250" y="520" width="400" height="20" fill="#140733"/>
+  <rect x="250" y="560" width="400" height="28" fill="#140733"/>
+
+  <path d="M40 760 L450 560 L860 760 L860 1120 L40 1120 Z" fill="#08031a" stroke="#00f0ff" stroke-width="2"/>
+  <line x1="450" y1="560" x2="450" y2="1120" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+  <line x1="245" y1="660" x2="245" y2="1120" stroke="#00f0ff" stroke-width="1" opacity="0.4"/>
+  <line x1="655" y1="660" x2="655" y2="1120" stroke="#00f0ff" stroke-width="1" opacity="0.4"/>
+
+  <line x1="40" y1="840" x2="860" y2="840" stroke="#ff007f" stroke-width="1.5" opacity="0.5"/>
+  <line x1="40" y1="940" x2="860" y2="940" stroke="#ff007f" stroke-width="2" opacity="0.6"/>
+  <line x1="40" y1="1050" x2="860" y2="1050" stroke="#00f0ff" stroke-width="2.5" opacity="0.7"/>
+
+  <text x="450" y="160" font-family="'Syne', sans-serif" font-size="62" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="14">SYNTHWAVE</text>
+  <text x="450" y="235" font-family="'Syne', sans-serif" font-size="52" font-weight="800" fill="#00f0ff" text-anchor="middle" letter-spacing="18">DREAMS</text>
+  <text x="450" y="285" font-family="'Space Grotesk', monospace" font-size="16" fill="#ff77c6" text-anchor="middle" letter-spacing="8">ANALOG VIBES // DIGITAL HORIZONS</text>
+
+  <text x="80" y="1120" font-family="monospace" font-size="12" fill="#64748b">ARTWORK: CRISTEL LACEA</text>
+  <text x="820" y="1120" font-family="monospace" font-size="12" fill="#00f0ff" text-anchor="end">RETROWAVE RECORDS</text>
+</svg>

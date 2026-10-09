@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pSumBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#05070c"/>
+      <stop offset="50%" stop-color="#0c1322"/>
+      <stop offset="100%" stop-color="#020408"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#pSumBg)"/>
+  <rect x="40" y="40" width="820" height="1120" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.4"/>
+  <rect x="55" y="55" width="790" height="1090" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.2"/>
+
+  <text x="80" y="110" font-family="'Space Grotesk', monospace" font-size="14" fill="#00f0ff" letter-spacing="4">[STUDENT PUBLICATION OFFICIAL]</text>
+  <text x="820" y="110" font-family="'Space Grotesk', monospace" font-size="14" fill="#94a3b8" text-anchor="end" letter-spacing="2">ANNUAL CONVENTION</text>
+
+  <!-- Center Graphic: Geometric Lens & Pen -->
+  <circle cx="450" cy="420" r="160" fill="none" stroke="#00f0ff" stroke-width="2"/>
+  <circle cx="450" cy="420" r="140" fill="rgba(0, 240, 255, 0.05)"/>
+  <polygon points="450,300 480,480 420,480" fill="#00f0ff" opacity="0.8"/>
+  <circle cx="450" cy="510" r="6" fill="#00f0ff"/>
+
+  <text x="450" y="690" font-family="'Syne', sans-serif" font-size="64" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="8">JOURNALISM</text>
+  <text x="450" y="760" font-family="'Syne', sans-serif" font-size="64" font-weight="900" fill="#00f0ff" text-anchor="middle" letter-spacing="8">SUMMIT 2026</text>
+  
+  <line x1="250" y1="810" x2="650" y2="810" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+  <text x="450" y="860" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" fill="#cbd5e1" text-anchor="middle" letter-spacing="3">TRUTH • PRESS FREEDOM • DIGITAL IMPACT</text>
+  
+  <g fill="#64748b" font-family="monospace" font-size="12" text-anchor="middle">
+    <text x="450" y="1040" letter-spacing="3">KEY VISUAL DESIGNED BY CRISTEL MAE LACEA</text>
+    <text x="450" y="1070" letter-spacing="2">ADOBE PHOTOSHOP &amp; CANVA • EDITORIAL TYPOGRAPHY</text>
+  </g>
+</svg>

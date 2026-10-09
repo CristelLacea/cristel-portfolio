@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="avBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a101f"/>
+      <stop offset="50%" stop-color="#002b4d"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="200" fill="#07090e"/>
+  <circle cx="200" cy="200" r="190" fill="url(#avBg)" opacity="0.3"/>
+  <circle cx="200" cy="200" r="188" fill="none" stroke="#00f0ff" stroke-width="2"/>
+  <circle cx="200" cy="150" r="55" fill="#0f172a" stroke="#00f0ff" stroke-width="2"/>
+  <path d="M110 320 C110 230, 290 230, 290 320 Z" fill="#0f172a" stroke="#00f0ff" stroke-width="2"/>
+  <text x="200" y="160" font-family="'Syne', sans-serif" font-size="36" font-weight="900" fill="#00f0ff" text-anchor="middle">CL</text>
+</svg>

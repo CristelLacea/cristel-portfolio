@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="reelBg_KINETICSUBTITLES" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="60%" stop-color="#0d1424"/>
+      <stop offset="100%" stop-color="#030508"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="720" height="1280" fill="url(#reelBg_KINETICSUBTITLES)"/>
+
+  <!-- Phone UI Top Status -->
+  <rect x="260" y="30" width="200" height="28" rx="14" fill="#020306"/>
+  <circle cx="430" cy="44" r="5" fill="#1e293b"/>
+  
+  <text x="50" y="50" font-family="'JetBrains Mono', monospace" font-size="16" fill="#64748b">9:16 REEL</text>
+  <text x="670" y="50" font-family="'JetBrains Mono', monospace" font-size="16" fill="#00f0ff" text-anchor="end">60 FPS</text>
+
+  <!-- Sound Waves / Kinetic Visual Center -->
+  <circle cx="360" cy="540" r="180" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="10 8" opacity="0.4"/>
+  <circle cx="360" cy="540" r="130" fill="rgba(0, 240, 255, 0.05)" stroke="#38bdf8" stroke-width="2"/>
+  
+  <polygon points="345,505 395,540 345,575" fill="#38bdf8" filter="url(#glow)"/>
+
+  <!-- Visual Beat bars -->
+  <g fill="#38bdf8" opacity="0.7">
+    <rect x="180" y="740" width="8" height="60" rx="4"/>
+    <rect x="220" y="710" width="8" height="120" rx="4"/>
+    <rect x="260" y="690" width="8" height="160" rx="4"/>
+    <rect x="300" y="660" width="8" height="220" rx="4"/>
+    <rect x="340" y="730" width="8" height="80" rx="4"/>
+    <rect x="380" y="680" width="8" height="180" rx="4"/>
+    <rect x="420" y="700" width="8" height="140" rx="4"/>
+    <rect x="460" y="720" width="8" height="100" rx="4"/>
+    <rect x="500" y="740" width="8" height="60" rx="4"/>
+  </g>
+
+  <!-- Overlay UI Badges -->
+  <rect x="50" y="140" width="160" height="34" rx="6" fill="rgba(0, 240, 255, 0.12)" stroke="#38bdf8" stroke-width="1.5"/>
+  <text x="130" y="163" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#38bdf8" text-anchor="middle">[MOTION TYPE]</text>
+
+  <!-- Titles -->
+  <text x="50" y="930" font-family="'Syne', sans-serif" font-size="42" font-weight="900" fill="#ffffff" letter-spacing="2">KINETIC SUBTITLES</text>
+  <text x="50" y="980" font-family="'Space Grotesk', sans-serif" font-size="20" font-weight="600" fill="#38bdf8" letter-spacing="1">ANIMATED TEXT & TRANSITIONS</text>
+
+  <!-- Caption / Role info -->
+  <rect x="50" y="1030" width="620" height="90" rx="10" fill="rgba(10, 15, 25, 0.85)" stroke="rgba(255,255,255,0.1)"/>
+  <text x="75" y="1065" font-family="'Plus Jakarta Sans', sans-serif" font-size="15" fill="#cbd5e1" font-weight="600">TOOLKIT: Adobe After Effects • Photoshop</text>
+  <text x="75" y="1095" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00f0ff">TIKTOK • IG REELS • YT SHORTS READY</text>
+  
+  <!-- Home Indicator Bar -->
+  <rect x="270" y="1245" width="180" height="5" rx="2.5" fill="#334155"/>
+</svg>

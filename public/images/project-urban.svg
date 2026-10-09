@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  <defs>
+    <linearGradient id="urbanBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0c"/>
+      <stop offset="100%" stop-color="#14141a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#urbanBg)"/>
+  
+  <polygon points="380,0 520,0 300,720 160,720" fill="#00f0ff" opacity="0.15"/>
+  <rect x="760" y="140" width="340" height="45" rx="4" fill="#00f0ff" opacity="0.9" transform="rotate(8 760 140)"/>
+  <text x="920" y="170" font-family="'Syne', sans-serif" font-size="18" font-weight="800" fill="#000000" text-anchor="middle" letter-spacing="4" transform="rotate(8 760 140)">AUTUMN // WINTER DROP</text>
+
+  <text x="200" y="360" font-family="'Syne', sans-serif" font-size="82" font-weight="900" fill="#ffffff" letter-spacing="6">URBAN</text>
+  <text x="200" y="440" font-family="'Syne', sans-serif" font-size="82" font-weight="900" fill="#00f0ff" letter-spacing="6">THREADS</text>
+  
+  <text x="205" y="495" font-family="'Space Grotesk', monospace" font-size="20" fill="#94a3b8" letter-spacing="4">STREETWEAR LOOKBOOK PROMO REEL</text>
+  <text x="205" y="530" font-family="monospace" font-size="14" fill="#00f0ff">EDIT &amp; MOTION DESIGN BY CRISTEL LACEA</text>
+  <text x="1200" y="80" font-family="monospace" font-size="14" fill="#64748b" text-anchor="end">4K CAMPAIGN // 2025</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#02070d"/>
+      <stop offset="60%" stop-color="#071822"/>
+      <stop offset="100%" stop-color="#0b242e"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="640" cy="400" r="300" fx="640" fy="400">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg2)"/>
+  
+  <!-- Film letterbox bars -->
+  <rect width="1280" height="50" fill="#000000"/>
+  <rect y="670" width="1280" height="50" fill="#000000"/>
+  
+  <!-- Sun / Eclipse -->
+  <circle cx="640" cy="380" r="240" fill="url(#sun)"/>
+  <circle cx="640" cy="380" r="140" fill="#020810"/>
+  <circle cx="640" cy="380" r="142" stroke="#00f0ff" stroke-width="2" fill="none" opacity="0.8"/>
+  
+  <!-- Silhouette terrain -->
+  <path d="M0 580 L260 480 L480 540 L720 450 L980 530 L1280 440 L1280 670 L0 670 Z" fill="#02070e"/>
+  
+  <text x="640" y="220" font-family="'Syne', 'Inter', sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="12">ECHOES OF TOMORROW</text>
+  <text x="640" y="260" font-family="'Space Grotesk', monospace" font-size="18" fill="#38bdf8" text-anchor="middle" letter-spacing="5">AN INDIE SCI-FI NARRATIVE SHORT</text>
+  
+  <text x="80" y="100" font-family="monospace" font-size="13" fill="#00f0ff">[2.39:1 CINEMATIC RATIO]</text>
+  <text x="1200" y="100" font-family="monospace" font-size="13" fill="#94a3b8" text-anchor="end">COLOR GRADE: DAVINCI RESOLVE</text>
+  <text x="640" y="640" font-family="monospace" font-size="14" fill="#64748b" text-anchor="middle">EDITED BY CRISTEL LACEA // FESTIVAL OFFICIAL SELECTION</text>
+</svg>

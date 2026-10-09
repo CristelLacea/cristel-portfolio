@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="horizonBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#010408"/>
+      <stop offset="60%" stop-color="#051525"/>
+      <stop offset="100%" stop-color="#020810"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#horizonBg)"/>
+  <circle cx="450" cy="520" r="260" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="450" cy="520" r="210" fill="#01050a"/>
+  
+  <line x1="100" y1="520" x2="800" y2="520" stroke="#00f0ff" stroke-width="2" opacity="0.9"/>
+  <circle cx="450" cy="520" r="16" fill="#ffffff"/>
+
+  <text x="450" y="240" font-family="'Syne', sans-serif" font-size="64" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="14">THE LAST</text>
+  <text x="450" y="320" font-family="'Syne', sans-serif" font-size="64" font-weight="900" fill="#00f0ff" text-anchor="middle" letter-spacing="14">HORIZON</text>
+  <text x="450" y="375" font-family="'Space Grotesk', monospace" font-size="16" fill="#94a3b8" text-anchor="middle" letter-spacing="6">A CINEMATIC TEASER KEY VISUAL</text>
+
+  <g fill="#475569" font-family="monospace" font-size="12" text-anchor="middle">
+    <text x="450" y="980" letter-spacing="4">DESIGNED &amp; COMPOSITED BY CRISTEL LACEA</text>
+    <text x="450" y="1010" letter-spacing="2">APEX CINEMATIC ARTS • 300 DPI FINE ART PRINT</text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgF2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070212"/>
+      <stop offset="50%" stop-color="#110526"/>
+      <stop offset="100%" stop-color="#020e1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bgF2)"/>
+  
+  <line x1="426" y1="0" x2="426" y2="720" stroke="#00f0ff" stroke-width="1.5" opacity="0.4"/>
+  <line x1="853" y1="0" x2="853" y2="720" stroke="#00f0ff" stroke-width="1.5" opacity="0.4"/>
+
+  <text x="640" y="340" font-family="'Syne', sans-serif" font-size="62" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="8">NIGHT PULSE</text>
+  <text x="640" y="390" font-family="'Space Grotesk', monospace" font-size="20" fill="#00f0ff" text-anchor="middle" letter-spacing="6">CINEMATIC NARRATIVE MUSIC FILM</text>
+  <text x="640" y="430" font-family="monospace" font-size="14" fill="#94a3b8" text-anchor="middle">POST-PRODUCTION ASSEMBLY &amp; GRADE BY CRISTEL MAE LACEA</text>
+</svg>
